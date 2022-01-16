@@ -19,6 +19,7 @@ public class GetAndPostExamples {
 
 		baseURI = "https://reqres.in/api";
 
+		//testing Get method
 		given().
 		get("/users?page=2").
 		then().
