@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "first_name": "Isha",
+      "last_name": "Shetty",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "first_name": "Mitts",
+      "last_name": "Godyal",
+      "subjectId": 1,
+      "id": 3
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 1
+    },
+    {
+      "name": "Devops",
+      "id": 2
+    },
+    {
+      "name": "Developer",
+      "id": 3
+    }
+  ]
+}
